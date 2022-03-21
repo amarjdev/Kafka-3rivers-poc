@@ -1,0 +1,10 @@
+server:
+  port : 7071
+#spring:
+  #security:
+   # oauth2:
+    #  client:
+        #registration:
+         # github:
+            #client-id: a7141fd9e56f10181e4f
+            #client-secret: f7461850cd574291f0e6085de17a1537f7b29e20
